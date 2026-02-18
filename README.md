@@ -4,14 +4,14 @@
 </div>
 
 <h3>🌠 About me:</h3>
-<img src="https://static.wikia.nocookie.net/ensemble-stars/images/5/59/Surprising_Thanks%21%21_ES2_Set_3_Ritsu.png/revision/latest?cb=20231127154327" width=200 align="right">
+<img src="https://static.wikia.nocookie.net/ensemble-stars/images/5/59/Surprising_Thanks%21%21_ES2_Set_3_Ritsu.png/revision/latest?cb=20231127154327" width=150 align="right">
 
-I'm a student at Universitat de Lleida taking Computer Engineering! I'm interested in coding, UX/UI design and learning new things 
+I'm a student at Universitat de Lleida taking Computer Engineering! I'm interested in coding, UX/UI design and learning all sort of new things and projects.
 
 - 🔭 I’m currently working on this page!
 - 🌱 I’m currently learning Django, Git and GitHub workflows
 - 📫 How to reach me: carlasales2005@gmail.com
-- ✨ **Fun fact (goroawase time!)**  
+- ✨ Fun fact (goroawase time!)  
 **39** in Japanese can be read as **"thank you"** → 3 (san) + 9 (kyū) → *sankyū*
 ---
 <h3>:woman_technologist: Tools:</h3>
